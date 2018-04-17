@@ -465,3 +465,10 @@
    link: https://www.metamorphsoftware.com/
    address: MetaMorph Inc., 49 Music Square West, Suite 210, Nashville, TN 37203
    description: MetaMorph Inc. builds multi-domain engineering tools for the design and analysis of complex systems.
+ - name: Pontifícia Universidade Católica do Rio Grande do Sul
+   type: school
+   lat: -30.061228
+   long: -51.173865
+   link: https://lsa-pucrs.github.io/
+   address: Av. Ipiranga, 6681 - Partenon 90619-900, Porto Alegre, RS, Brazil
+   description: Autonomous Systems Lab - FACIN - PUC-RS
